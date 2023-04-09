@@ -1,2 +1,6 @@
-# JAVA_DATA_BASE-JDBC-_
-I AM TRYING TO LEARN  JDBC CONCEPT
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<<"it is my first code"<<endl;
+}
